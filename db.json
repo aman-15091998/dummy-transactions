@@ -1,4 +1,5 @@
-transactions=[
+{
+  "transactions":[
   {"name": "Item 1", "category": "Electronics", "quantity": 10, "amount": 99, "date": "2024-07-05"},
   {"name": "Item 2", "category": "Clothing", "quantity": 15, "amount": 49, "date": "2024-07-14"},
   {"name": "Item 3", "category": "Home Goods", "quantity": 7, "amount": 29, "date": "2024-07-21"},
@@ -50,3 +51,5 @@ transactions=[
   {"name": "Item 49", "category": "Beauty Products", "quantity": 17, "amount": 8, "date": "2024-07-03"},
   {"name": "Item 50", "category": "Office Supplies", "quantity": 2, "amount": 15, "date": "2024-07-03"}
 ]
+
+}
