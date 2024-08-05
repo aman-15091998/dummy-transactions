@@ -50,6 +50,5 @@
   {"name": "Item 48", "category": "Furniture", "quantity": 11, "amount": 89, "date": "2024-07-17"},
   {"name": "Item 49", "category": "Beauty Products", "quantity": 17, "amount": 8, "date": "2024-07-03"},
   {"name": "Item 50", "category": "Office Supplies", "quantity": 2, "amount": 15, "date": "2024-07-03"}
-]
-
+  ]
 }
